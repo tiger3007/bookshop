@@ -1,0 +1,16 @@
+{
+    "name": "bookshop-ui",
+    "description": "A simple CAP project.",
+    "repository": "<Add your repository here>",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "@sap/approuter": "^11.0.1"
+    },
+    "engines": {
+        "node": "^14.0.0"
+    },
+    "scripts": {
+        "start": "node node_modules/@sap/approuter/approuter.js"
+    }
+}
